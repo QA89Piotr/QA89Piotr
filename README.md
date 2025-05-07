@@ -1,7 +1,7 @@
 # portfolio
 Software tester portfolio
 
-# 🧪 QA Portfolio – [Piotr Matyasik]
+# 🧪 QA Portfolio – Piotr Matyasik
 
 Hello! I'm an aspiring Software Tester with a passion for quality assurance and a strong desire to grow in the IT industry. This portfolio showcases my learning journey, practice projects, and testing skills.
 
@@ -68,9 +68,9 @@ Hello! I'm an aspiring Software Tester with a passion for quality assurance and 
 
 ## 📫 Contact
 
-- 📧 Email: [pm_mp@op.pl]  
-- 💼 LinkedIn: [www.linkedin.com/in/piotr-matyasik-2b90a5324]  
-- 🌐 GitHub: [https://github.com/qa-piotr]  
+- 📧 Email: pm_mp@op.pl
+- 💼 LinkedIn: www.linkedin.com/in/piotr-matyasik-2b90a5324
+- 🌐 GitHub: https://github.com/qa-piotr  
 
 ---
 
