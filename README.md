@@ -1,7 +1,7 @@
 # portfolio
 Software tester portfolio
 
-# 🧪 QA Portfolio – [Your Name]
+# 🧪 QA Portfolio – [Piotr Matyasik]
 
 Hello! I'm an aspiring Software Tester with a passion for quality assurance and a strong desire to grow in the IT industry. This portfolio showcases my learning journey, practice projects, and testing skills.
 
