@@ -68,7 +68,7 @@ Hello! I'm an aspiring Software Tester with a passion for quality assurance and 
 
 - 📧 Email: pm_mp@op.pl
 - 💼 LinkedIn: www.linkedin.com/in/piotr-matyasik-2b90a5324
-- 🌐 GitHub: https://github.com/qa-piotr  
+- 🌐 GitHub: https://github.com/QA89Piotr 
 
 ---
 
