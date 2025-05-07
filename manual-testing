@@ -1,1 +1,9 @@
+# 🧪 Test Cases – Login Functionality
+
+| ID  | Test Case                          | Steps                                                                       | Expected Result                               |
+|-----|------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------|
+| TC1 | Valid login                        | 1. Go to login page<br>2. Enter valid email and password<br>3. Click login  | User is logged in and redirected to dashboard |
+| TC2 | Invalid password                   | 1. Enter valid email<br>2. Enter wrong password<br>3. Click login           | Error message: "Invalid credentials"          |
+| TC3 | Empty fields                       | 1. Leave email and password empty<br>2. Click login                         | Error message: "Fields required"              |
+| TC4 | Invalid email format               | 1. Enter "test.com" as email<br>2. Click login                              | Error: "Invalid email format"                 |
 
