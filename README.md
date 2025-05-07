@@ -1,5 +1,3 @@
-# portfolio
-Software tester portfolio
 
 # 🧪 QA Portfolio – Piotr Matyasik
 
